@@ -4,6 +4,6 @@
 <title></title>
 <link href = "/assets/styles.css" rel="stylesheet">
 </head>
-<body>
+<body id = "final-example">
 </body>
 </html>
